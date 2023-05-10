@@ -1,0 +1,22 @@
+[
+  {
+    "streamId": "1STREAMPCM",
+    "stream": "Science (Physics, Chemistry with Statistics/Maths)"
+  },
+  {
+    "streamId": "2STREAMPCB",
+    "stream": "Science (Physics, Chemistry with Biology)"
+  },
+  {
+    "streamId": "3STREAMPCMB",
+    "stream": "Science (Physics, Chemistry with Statistics/Maths + Biology)"
+  },
+  {
+    "streamId": "4STREAMCOMMERCE",
+    "stream": "Commerce"
+  },
+  {
+    "streamId": "5STREAMARTS",
+    "stream": "Arts"
+  }
+]

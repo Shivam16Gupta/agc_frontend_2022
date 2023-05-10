@@ -1,0 +1,22 @@
+[
+    {
+        "streamId": "$s1Science",
+        "stream": "Science (Physics, Chemistry with Statistics/Maths)"
+    },
+    {
+        "streamId": "$s1.2PCB",
+        "stream": "Science (Physics, Chemistry with Biology)"
+    },
+    {
+        "streamId": "$s1.3PCMB",
+        "stream": "Science (Physics, Chemistry with Statistics/Maths + Biology)"
+    },
+    {
+        "streamId": "$s2Commerce",
+        "stream": "Commerce"
+    },
+    {
+        "streamId": "$s3Arts",
+        "stream": "Arts" 
+    }
+]

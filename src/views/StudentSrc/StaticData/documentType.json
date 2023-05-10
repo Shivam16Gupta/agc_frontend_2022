@@ -1,0 +1,42 @@
+[
+  {
+    "documentTypeId": "1HSM",
+    "documentType": "High School Marksheet"
+  },
+  {
+    "documentTypeId": "2IM",
+    "documentType": "Inter Marksheet"
+  },
+  {
+    "documentTypeId": "3GD",
+    "documentType": "Graduation Degree"
+  },
+  {
+    "documentTypeId": "4PG",
+    "documentType": "Post-Graduation Degree"
+  },
+  {
+    "documentTypeId": "5Others",
+    "documentType": "Others"
+  },
+  {
+    "documentTypeId": "6LLB",
+    "documentType": "LLB Degree"
+  },
+  {
+    "documentTypeId": "7PG1MS",
+    "documentType": "1st Year Marksheet"
+  },
+  {
+    "documentTypeId": "8PG2MS",
+    "documentType": "2nd Year Marksheet"
+  },
+  {
+    "documentTypeId": "9PG3MS",
+    "documentType": "3rd Year Marksheet"
+  },
+  {
+    "documentTypeId": "10PG4MS",
+    "documentType": "4th Year Marksheet"
+  }
+]

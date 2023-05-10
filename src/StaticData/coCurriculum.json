@@ -1,0 +1,11 @@
+{
+  "1": { "ODD": "Food, Nutrition, & Hygiene", "EVEN": "First Aid & Health" },
+  "2": {
+    "ODD": "Human Values & Environment Studies",
+    "EVEN": "Physical Education & Yoga"
+  },
+  "3": {
+    "ODD": "Analytic Ability & Digital Awareness",
+    "EVEN": "Communication Skills"
+  }
+}

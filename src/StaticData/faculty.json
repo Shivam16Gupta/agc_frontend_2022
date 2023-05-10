@@ -1,0 +1,13 @@
+[
+  {
+    "facultyId": "1FOAPE",
+    "facultyName": "Faculty of Arts, Physical Education"
+  },
+  { "facultyId": "2FOL", "facultyName": "Faculty of Language" },
+  { "facultyId": "3FOFA", "facultyName": "Faculty of Fine Art" },
+  { "facultyId": "4FOS", "facultyName": "Faculty of Science" },
+  {
+    "facultyId": "5FOALIS",
+    "facultyName": "Faculty of Arts, Library & Information Science"
+  }
+]

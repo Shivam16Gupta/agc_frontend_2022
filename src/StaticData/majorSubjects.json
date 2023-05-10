@@ -1,0 +1,850 @@
+[
+  {
+    "id": "1PCM",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Physics, Chemistry, Maths",
+    "years": ["1"]
+  },
+  {
+    "id": "2SMP",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics, Maths, Physics",
+    "years": ["1"]
+  },
+  {
+    "id": "3SMC",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics, Maths, Chemistry",
+    "years": ["1"]
+  },
+  {
+    "id": "4SCE",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics, Chemistry, Economics",
+    "years": ["1"]
+  },
+  {
+    "id": "5MPE",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Maths, Physics, Economics",
+    "years": ["1"]
+  },
+  {
+    "id": "6MCE",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Maths, Chemistry, Economics",
+    "years": ["1"]
+  },
+  {
+    "id": "7ZBC",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology, Botany, Chemistry",
+    "years": ["1"]
+  },
+  {
+    "id": "08DSS",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Defence & Strategic Studies",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "8ECNM",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Economics",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "9HISTORY",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "History",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "10PHILOSOPHY",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Philosophy",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "11PS",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Political Science",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "12PSCHYOLOGY",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Psychology",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "13SOCIOLOGY",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Sociology",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "14PE",
+    "facultyId": "1FOAPE",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Physical Education",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "15SANSKRIT",
+    "facultyId": "2FOL",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Sanskrit",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "16HINDI",
+    "facultyId": "2FOL",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Hindi",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "17ENGLISH",
+    "facultyId": "2FOL",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "English",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "18DP",
+    "facultyId": "3FOFA",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Drawing & Painting",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "19MUSIC",
+    "facultyId": "3FOFA",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Music",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "20MATHS",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Mathematics",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "66ZOOLOGY",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology",
+    "years": ["2"]
+  },
+  {
+    "id": "67BOTANY",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Botany",
+    "years": ["2"]
+  },
+  {
+    "id": "68CHEM",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Chemistry",
+    "years": ["2"]
+  },
+  {
+    "id": "69PHY",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Physics",
+    "years": ["2"]
+  },
+  {
+    "id": "70STATS",
+    "facultyId": "4FOS",
+    "courseId": "1BA",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics",
+    "years": ["2"]
+  },
+  {
+    "id": "21BCOM",
+    "facultyId": null,
+    "courseId": "8BCOM",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB", "4STREAMCOMMERCE"],
+    "name": "B.Com.",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "22BCA",
+    "facultyId": null,
+    "courseId": "4BCA",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB", "4STREAMCOMMERCE"],
+    "name": "BCA",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "23BBA",
+    "facultyId": null,
+    "courseId": "3BBA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "BBA",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "24HL",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Hindi",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "25SANSKRIT",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Sanskrit",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "26PSYCHO",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Psychology",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "27PS",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Political Science",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "28MATHS",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Mathematics",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "29EL",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "English",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "30PHILO",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Philosophy",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "31HISTORY",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "History",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "32ECO",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Economics",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "33DP",
+    "facultyId": null,
+    "courseId": "2MA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Drawing & Painting",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "35PHYSICS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Physics",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "36CHEM",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Chemistry",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "37MATHS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Mathematics",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "38STATS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "39ECONOMICS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Economics",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "40BOTANY",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Botany",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "41ZOOLOGY",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "54ENGLISH",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "English",
+    "years": ["2"]
+  },
+  {
+    "id": "55HINDI",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Hindi",
+    "years": ["2"]
+  },
+  {
+    "id": "56SANSKRIT",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Sanskrit",
+    "years": ["2"]
+  },
+  {
+    "id": "57HISTORY",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "History",
+    "years": ["2"]
+  },
+  {
+    "id": "58PSYCHO",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Psychology",
+    "years": ["2"]
+  },
+  {
+    "id": "59PHILOSOPHY",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Philosophy",
+    "years": ["2"]
+  },
+  {
+    "id": "60PS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Political Science",
+    "years": ["2"]
+  },
+  {
+    "id": "61SOCIOLOGY",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Sociology",
+    "years": ["2"]
+  },
+  {
+    "id": "62DSS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Defence & Strategic Studies",
+    "years": ["2"]
+  },
+  {
+    "id": "63PE",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Physical Education",
+    "years": ["2", "3"]
+  },
+  {
+    "id": "64DP",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Drawing & Painting",
+    "years": ["2"]
+  },
+  {
+    "id": "65MUSIC",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Music",
+    "years": ["2"]
+  },
+  {
+    "id": "43PHYSICS",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Physics",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "44CHEM",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["1STREAMPCM", "2STREAMPCB", "3STREAMPCMB"],
+    "name": "Chemistry",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "45MATHS",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Mathematics",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "46BOTANY",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Botany",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "47ZOOLOGY",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "48STATS",
+    "facultyId": null,
+    "courseId": "7MSC",
+    "streamId": ["1STREAMPCM", "3STREAMPCMB"],
+    "name": "Statistics",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "49BBT",
+    "facultyId": null,
+    "courseId": "5BSCBIOTECH",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Bsc. BioTech.",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "50JOURNALISM",
+    "facultyId": null,
+    "courseId": "9JOURNALISM",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "PGDJ (Journalism)",
+    "years": ["1"]
+  },
+  {
+    "id": "51BALLB",
+    "facultyId": null,
+    "courseId": "10BALLB",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "BA. LLB",
+    "years": ["1", "2", "3", "4", "5"]
+  },
+  {
+    "id": "52LLB",
+    "facultyId": null,
+    "courseId": "11LLB",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "LLB",
+    "years": ["1", "2", "3"]
+  },
+  {
+    "id": "53LLM",
+    "facultyId": null,
+    "courseId": "12LLM",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "LLM",
+    "years": ["1", "2"]
+  },
+  {
+    "id": "71MS",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Military Science",
+    "years": ["3"]
+  },
+  {
+    "id": "72EL",
+    "facultyId": "2FOL",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "English Literature",
+    "years": ["3"]
+  },
+  {
+    "id": "73HL",
+    "facultyId": "2FOL",
+    "courseId": "1BA",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "Hindi Literature",
+    "years": ["3"]
+  },
+  {
+    "id": "74BED",
+    "facultyId": null,
+    "courseId": "13BED",
+    "streamId": [
+      "1STREAMPCM",
+      "2STREAMPCB",
+      "3STREAMPCMB",
+      "4STREAMCOMMERCE",
+      "5STREAMARTS"
+    ],
+    "name": "B.Ed.",
+    "years": ["1", "2"]
+  }
+]

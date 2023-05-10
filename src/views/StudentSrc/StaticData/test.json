@@ -1,0 +1,68 @@
+{
+    "courseType":"Post Graduate",
+    "courseTypeId": "#pg2PG"
+}
+{
+    "faculty": [
+        {
+            "id": "",
+            "name": "Science",
+            "courseType": {
+                "ug": {
+                    "courseList": [
+                        {
+                            "id": "",
+                            "name": "B.Sc Bio"
+                        }
+                    ]
+                },
+                "pg": {
+                    "courseList": [
+                        {
+                            "id": "",
+                            "name": "M.Sc"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "id": "",
+            "name": "Commerce"
+        },
+        {
+            "id": "",
+            "name": "Arts"
+        },
+        {
+            "id": "",
+            "name": "Law"
+        },
+        {
+            "id": "",
+            "name": "Bio-Tech"
+        },
+        {
+            "id": "",
+            "name": "BBA-BCA"
+        },
+        {
+            "id": "",
+            "name": "LLM"
+        }
+    ],
+    "courseType": [
+        {
+            "cTypeId": "ug",
+            "name": "Under Graduate"
+        },
+        {
+            "cTypeId": "pg",
+            "name": "Post Graduate"
+        },
+        {
+            "cTypeId": "llm",
+            "name": "LLM"
+        }
+    ]
+}

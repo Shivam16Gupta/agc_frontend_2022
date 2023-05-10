@@ -1,0 +1,401 @@
+[
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s1Botany",
+        "paperId": "$p1",
+        "subjectName": "Microbiology & Plant Pathology"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s3Chemistry",
+        "paperId": "$p2",
+        "subjectName": "Fundamentals of Chemistry"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s4Maths",
+        "paperId": "$p3",
+        "subjectName": "Differential Calculus & Integral Calculus"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s2Physics",
+        "paperId": "$p4",
+        "subjectName": "Mathematical Physics & Newtonian Mechanics"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s5Statistics",
+        "paperId": "$p5",
+        "subjectName": "Descriptive Statistics (Univariate) and Theory of Probability"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 1,
+        "subjectId": "$s6Zoology",
+        "paperId": "$p6",
+        "subjectName": "Cytology, Genetics and Infectious Diseases"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$s7dss",
+        "paperId": "$p35",
+        "subjectName": "Military History of India"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$s7dss",
+        "paperId": "$p7",
+        "subjectName": "Conceptual Aspect of war"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$s8Economics",
+        "paperId": "$p8",
+        "subjectName": "Principle of Micro Economics Theory"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$9History",
+        "paperId": "$p9",
+        "subjectName": "Ancient and Early Medieval India (Till 1206 A.D.)"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$s10Phylosophy",
+        "paperId": "$p10",
+        "subjectName": "Indian Philosophy"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$11pe",
+        "paperId": "$p11",
+        "subjectName": "Elementals of Physical Education"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$12ps",
+        "paperId": "$p12",
+        "subjectName": "Indian National Movement & Constitution of India"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$13Psychology",
+        "paperId": "$p13",
+        "subjectName": "Basic Psychological Processes"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 1,
+        "subjectId": "$14Sociology",
+        "paperId": "$p14",
+        "subjectName": "Introduction to Basic Concepts of Sociology"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 1,
+        "subjectId": "$16English",
+        "paperId": "$p16",
+        "subjectName": "English Prose and Writing Skills"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 2,
+        "subjectId": "$15Hindi",
+        "paperId": "$p44",
+        "subjectName": "कार्यालयी हिन्दी और कम्प्यूटर"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 1,
+        "subjectId": "$15Hindi",
+        "paperId": "$p155",
+        "subjectName": "हिन्दी काव्य"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 1,
+        "subjectId": "$17Sanskrit",
+        "paperId": "$p17",
+        "subjectName": "संस्कृत पद् साहित्य एवं व्याकरण"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$18dp",
+        "paperId": "$p18",
+        "subjectName": "History of Art : Pre Historic to Rashtrakuta Theoretical and Analytical study of Ragas, Talas & General"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p19",
+        "subjectName": "Theory of Indian Classical Music "
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p20",
+        "subjectName": "Practical Performance and Proficiency Skill of the Prescribed Raagas and Taals"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p21",
+        "subjectName": "Basic Fundamental of Tabla"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p22",
+        "subjectName": "Tabla Practical and stage performance"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p23",
+        "subjectName": "Introduction to Indian Music"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 1,
+        "subjectId": "$19Music",
+        "paperId": "$p24",
+        "subjectName": "Critical study of Ragas and Taals"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 1,
+        "subjectId": "$20Bcom",
+        "paperId": "$p25",
+        "subjectName": "Business Organisation"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 1,
+        "subjectId": "$20Bcom",
+        "paperId": "$p26",
+        "subjectName": "Business Statistics"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 1,
+        "subjectId": "$20Bcom",
+        "paperId": "$p27",
+        "subjectName": "Business Communication"
+    },
+    {
+        "facultyId": "f6fom",
+        "semester": 1,
+        "subjectId": "$20Bcom",
+        "paperId": "$p28",
+        "subjectName": "Introduction to Computer Application"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s1Botany",
+        "paperId": "$p29",
+        "subjectName": "Archegoniates & Plant Architecture"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s3Chemistry",
+        "paperId": "$p30",
+        "subjectName": "Bioorganic and Medicinal Chemistry"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s4Maths",
+        "paperId": "$p31",
+        "subjectName": "Matrices and Differential Equations & Geometry"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s2Physics",
+        "paperId": "$p32",
+        "subjectName": "Thermal Physics & Semiconductor Devices"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s5Statistics",
+        "paperId": "$p33",
+        "subjectName": "Descriptive Statistics (Bivariate) and Probability Distributions"
+    },
+    {
+        "facultyId": "f1Science",
+        "semester": 2,
+        "subjectId": "$s6Zoology",
+        "paperId": "$p34",
+        "subjectName": "Biochemistry and Physiology"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$s8Economics",
+        "paperId": "$p36",
+        "subjectName": "Principles of Macro Economics"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$9History",
+        "paperId": "$p37",
+        "subjectName": "History of Medieval India (1206 A.D.-1757 A.D.)"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$s10Phylosophy",
+        "paperId": "$p38",
+        "subjectName": "Western Philosophy"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$11pe",
+        "paperId": "$p39",
+        "subjectName": "Sports organization and Management"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$12ps",
+        "paperId": "$p40",
+        "subjectName": "Political Theory & Concepts"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$13Psychology",
+        "paperId": "$p41",
+        "subjectName": "Basic Research Methodology and Statistics"
+    },
+    {
+        "facultyId": "f2Arts",
+        "semester": 2,
+        "subjectId": "$14Sociology",
+        "paperId": "$p42",
+        "subjectName": "Society in India: Structure, Organization & Change."
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 2,
+        "subjectId": "$16English",
+        "paperId": "$p43",
+        "subjectName": "English Poetry"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 2,
+        "subjectId": "$15Hindi",
+        "paperId": "$p44",
+        "subjectName": "कार्यालयी हिन्दी और कम्प्यूटर"
+    },
+    {
+        "facultyId": "f3Language",
+        "semester": 2,
+        "subjectId": "$17Sanskrit",
+        "paperId": "$45",
+        "subjectName": "संस्कृत गद्य साहित्य अनुवाद एवं संगणक अनुप्रयोग"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$18dp",
+        "paperId": "$p46",
+        "subjectName": "Fundamentals of Art Theoretical and Analytical study of Ragas, Talas"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p47",
+        "subjectName": "Historical study of Indian Classical Music Practical Performance and Proficiency Skill of the"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p48",
+        "subjectName": "Prescribed Raagas and Taals."
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p49",
+        "subjectName": "Principles of Taal"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p50",
+        "subjectName": "Tabla Practical and stage performance II"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p51",
+        "subjectName": "History of Indian Music"
+    },
+    {
+        "facultyId": "f4fineArt",
+        "semester": 2,
+        "subjectId": "$19Music",
+        "paperId": "$p52",
+        "subjectName": "Critical study of Ragas and Taals"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 2,
+        "subjectId": "$20Bcom",
+        "paperId": "$p53",
+        "subjectName": "Business Management"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 2,
+        "subjectId": "$20Bcom",
+        "paperId": "$p54",
+        "subjectName": "Financial Accounting"
+    },
+    {
+        "facultyId": "f5foc",
+        "semester": 2,
+        "subjectId": "$20Bcom",
+        "paperId": "$p55",
+        "subjectName": "Essentials of E-Commerce"
+    },
+    {
+        "facultyId": "f6fom",
+        "semester": 2,
+        "subjectId": "$20Bcom",
+        "paperId": "$p56",
+        "subjectName": "Business Economics"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "facultyId": "#f5BBA",
+        "courseTypeId": "#ug1UG",
+        "course": "BBA",
+        "courseId": "#c1BBA"
+    },
+    {
+        "facultyId": "#f6BCA",
+        "courseTypeId": "#ug1UG",
+        "course": "BCA",
+        "courseId": "#c2BCA"
+    },
+    {
+        "facultyId": "#f4Commerce",
+        "courseTypeId": "#ug1UG",
+        "course": "B.Com",
+        "courseId": "#c3Bcom"
+    },
+    {
+        "facultyId": "f2Arts",
+        "courseTypeId": "#ug1UG",
+        "course": "BA",
+        "courseId": "#c4BA"
+    },
+    {
+        "facultyId": "f2Arts",
+        "courseTypeId": "#pg2PG",
+        "course": "MA",
+        "courseId": "#c5MA"
+    },
+    {
+        "facultyId": "f2Arts",
+        "courseTypeId": "#ug1UG",
+        "course": "Ba.LLB(5 Year)",
+        "courseId": "#c6BaLLB"
+    },
+    {
+        "facultyId": "f1Science",
+        "courseTypeId": "#ug1UG",
+        "course": "Bsc. Maths",
+        "courseId": "#c7BscMaths"
+    },
+    {
+        "facultyId": "f1Science",
+        "courseTypeId": "#ug1UG",
+        "course": "Bsc. Bio",
+        "courseId": "#c8BscBio"
+    },
+    {
+        "facultyId": "f1Science",
+        "courseTypeId": "#pg2PG",
+        "course": "Msc",
+        "courseId": "#c9MSC"
+    },
+    {
+        "facultyId": "#f9BioTech",
+        "courseTypeId": "#ug1UG",
+        "course": "Bsc. Bio Tech.",
+        "courseId": "#c10BscBioTech"
+    },
+    {
+        "facultyId": "#f3Law",
+        "courseTypeId": "#ug1UG",
+        "course": "LLB",
+        "courseId": "#c11LLB"
+    },
+    {
+        "facultyId": "#f3Law",
+        "courseTypeId": "#pg2PG",
+        "course": "LLM",
+        "courseId": "#c12LLM"
+    },
+    {
+        "facultyId": "#f7BED",
+        "courseTypeId": "#pg2PG",
+        "course": "BED",
+        "courseId": "#c13BED"
+    }
+]

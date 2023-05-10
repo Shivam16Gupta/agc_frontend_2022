@@ -1,0 +1,240 @@
+{
+  "1BA": {
+    "1": [
+      {
+        "id": "0DSS",
+        "majorId": "08DSS",
+        "facultyId": "1FOAPE",
+        "name": "Defence & Strategic Studies"
+      },
+      {
+        "id": "1ECM",
+        "majorId": "8ECNM",
+        "facultyId": "1FOAPE",
+        "name": "Economics"
+      },
+      {
+        "id": "2HISTORY",
+        "majorId": "9HISTORY",
+        "facultyId": "1FOAPE",
+        "name": "History"
+      },
+      {
+        "id": "3PHL",
+        "majorId": "10PHILOSOPHY",
+        "facultyId": "1FOAPE",
+        "name": "Philosophy"
+      },
+      {
+        "id": "4PS",
+        "majorId": "11PS",
+        "facultyId": "1FOAPE",
+        "name": "Political Science"
+      },
+      {
+        "id": "5PSYCHO",
+        "majorId": "",
+        "facultyId": "1FOAPE",
+        "name": "Psychology"
+      },
+      {
+        "id": "6SOCIOLOGY",
+        "majorId": "12PSCHYOLOGY",
+        "facultyId": "1FOAPE",
+        "name": "Sociology"
+      },
+      {
+        "id": "7LIS",
+        "majorId": "014LIS",
+        "facultyId": "1FOAPE",
+        "name": "Library & Information Science"
+      },
+      {
+        "id": "8ENG",
+        "majorId": "17ENGLISH",
+        "facultyId": "2FOL",
+        "name": "English"
+      },
+      {
+        "id": "9HIN",
+        "majorId": "16HINDI",
+        "facultyId": "2FOL",
+        "name": "Hindi"
+      },
+      {
+        "id": "10SANSKRIT",
+        "majorId": "15SANSKRIT",
+        "facultyId": "2FOL",
+        "name": "Sanskrit"
+      },
+      {
+        "id": "11DP",
+        "majorId": "18DP",
+        "facultyId": "3FOFA",
+        "name": "Drawing & Painting"
+      },
+      {
+        "id": "12MUSIC",
+        "majorId": "19MUSIC",
+        "facultyId": "3FOFA",
+        "name": "Music"
+      }
+    ],
+    "2": [
+      {
+        "id": "0DSS",
+        "majorId": "08DSS",
+        "facultyId": "1FOAPE",
+        "name": "Defence & Strategic Studies"
+      },
+      {
+        "id": "1ECM",
+        "majorId": "8ECNM",
+        "facultyId": "1FOAPE",
+        "name": "Economics"
+      },
+      {
+        "id": "2HISTORY",
+        "majorId": "9HISTORY",
+        "facultyId": "1FOAPE",
+        "name": "History"
+      },
+      {
+        "id": "3PHL",
+        "majorId": "10PHILOSOPHY",
+        "facultyId": "1FOAPE",
+        "name": "Philosophy"
+      },
+      {
+        "id": "4PS",
+        "majorId": "11PS",
+        "facultyId": "1FOAPE",
+        "name": "Political Science"
+      },
+      {
+        "id": "5PSYCHO",
+        "majorId": "",
+        "facultyId": "1FOAPE",
+        "name": "Psychology"
+      },
+      {
+        "id": "6SOCIOLOGY",
+        "majorId": "12PSCHYOLOGY",
+        "facultyId": "1FOAPE",
+        "name": "Sociology"
+      },
+      {
+        "id": "8ENG",
+        "majorId": "17ENGLISH",
+        "facultyId": "2FOL",
+        "name": "English"
+      },
+      {
+        "id": "9HIN",
+        "majorId": "16HINDI",
+        "facultyId": "2FOL",
+        "name": "Hindi"
+      },
+      {
+        "id": "10SANSKRIT",
+        "majorId": "15SANSKRIT",
+        "facultyId": "2FOL",
+        "name": "Sanskrit"
+      },
+      {
+        "id": "11DP",
+        "majorId": "18DP",
+        "facultyId": "3FOFA",
+        "name": "Drawing & Painting"
+      },
+      {
+        "id": "12MUSIC",
+        "majorId": "19MUSIC",
+        "facultyId": "3FOFA",
+        "name": "Music"
+      },
+      {
+        "id": "13PE",
+        "majorId": "14PE",
+        "facultyId": "1FOAPE",
+        "name": "Physical Education"
+      },
+      {
+        "id": "14ZOOLOGY",
+        "majorId": "66ZOOLOGY",
+        "facultyId": "4FOS",
+        "name": "Zoology"
+      },
+      {
+        "id": "15BOTANY",
+        "majorId": "67BOTANY",
+        "facultyId": "4FOS",
+        "name": "Botany"
+      },
+      {
+        "id": "16CHEM",
+        "majorId": "68CHEM",
+        "facultyId": "4FOS",
+        "name": "Chemistry"
+      },
+      {
+        "id": "17PHY",
+        "majorId": "69PHY",
+        "facultyId": "4FOS",
+        "name": "Physics"
+      },
+      {
+        "id": "18MATHS",
+        "majorId": "20MATHS",
+        "facultyId": "4FOS",
+        "name": "Mathematics"
+      },
+      {
+        "id": "19STATS",
+        "majorId": "70STATS",
+        "facultyId": "4FOS",
+        "name": "Statistics"
+      },
+      {
+        "id": "20FE",
+        "majorId": "N/A",
+        "facultyId": "N/A",
+        "name": "Fundamentals of Entrepreneurship (FE)"
+      }
+    ]
+  },
+  "6BSC": {
+    "1": [
+      { "id": "1DSS", "name": "Defence & Strategic Studies" },
+      { "id": "2ENG", "name": "English" },
+      { "id": "2HINDI", "name": "Hindi" },
+      { "id": "3HISTORY", "name": "History" },
+      { "id": "4ICA", "name": "Introduction of Computer Application" },
+      { "id": "5PE", "name": "Physical Education" },
+      { "id": "6SANSKRIT", "name": "Sanskrit" }
+    ],
+    "2": [
+      { "id": "1DSS", "name": "Defence & Strategic Studies" },
+      { "id": "2ENG", "name": "English" },
+      { "id": "2HINDI", "name": "Hindi" },
+      { "id": "3HISTORY", "name": "History" },
+      { "id": "4ICA", "name": "Introduction of Computer Application" },
+      { "id": "5PE", "name": "Physical Education" },
+      { "id": "6SANSKRIT", "name": "Sanskrit" },
+      { "id": "7ECONOMICS", "name": "Economics" },
+      { "id": "8PSYCHO", "name": "Psychology" },
+      { "id": "9PHILO", "name": "Philosophy" },
+      { "id": "10PS", "name": "Political Science" },
+      { "id": "11SOCIOLOGY", "name": "Sociology" },
+      { "id": "12DP", "name": "Drawing & Painting" },
+      { "id": "13MUSIC", "name": "Music" },
+      { "id": "14ZOOLOGY", "name": "Zoology" },
+      { "id": "15BOTANY", "name": "Botany" },
+      { "id": "16CHEM", "name": "Chemistry" },
+      { "id": "17PHY", "name": "Physics" },
+      { "id": "18MATHS", "name": "Mathematics" },
+      { "id": "19STATS", "name": "Statistics" },
+      { "id": "20FE", "name": "Fundamentals of Entrepreneurship (FE)" }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "1BA": { "prospectusFee": "PURCHASE", "courseFee": "F1SCIENCE" },
+  "6BSC": { "prospectusFee": "PURCHASE", "courseFee": "F1SCIENCE" },
+  "2MA": { "prospectusFee": "PURCHASE", "courseFee": "F1SCIENCE" },
+  "7MSC": { "prospectusFee": "PURCHASE", "courseFee": "F1SCIENCE" },
+  "11LLB": { "prospectusFee": "F7LAW", "courseFee": "F7LAW" },
+  "12LLM": { "prospectusFee": "F7LAW", "courseFee": "F7LAW" },
+  "10BALLB": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "8BCOM": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "3BBA": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "4BCA": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "5BSCBIOTECH": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "9JOURNALISM": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" },
+  "13BED": { "prospectusFee": "F5FOC", "courseFee": "F5FOC" }
+}

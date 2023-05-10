@@ -1,0 +1,57 @@
+[
+  {
+    "yearId": "1",
+    "year": "1st Year (New Admission)",
+    "courseType": ["#ug1UG", "#pg2PG", "pgd3PGD", "law4LAW"],
+    "lastDate": {
+      "#ug1UG": 1633458599000,
+      "#pg2PG": 1637081662700,
+      "pgd3PGD": 1648751340000,
+      "law4LAW": 1637081662700
+    }
+  },
+  {
+    "yearId": "2",
+    "year": "2nd Year",
+    "courseType": ["#ug1UG", "#pg2PG", "law4LAW"],
+    "lastDate": {
+      "#ug1UG": 1648751340000,
+      "#pg2PG": 1648751340000,
+      "pgd3PGD": 1648751340000,
+      "law4LAW": 1648751340000
+    }
+  },
+  {
+    "yearId": "3",
+    "year": "3rd Year",
+    "courseType": ["law4LAW", "#ug1UG"],
+    "lastDate": {
+      "#ug1UG": 1648751340000,
+      "#pg2PG": 1648751340000,
+      "pgd3PGD": 1648751340000,
+      "law4LAW": 1648751340000
+    }
+  },
+  {
+    "yearId": "4",
+    "year": "4th Year",
+    "courseType": ["law4LAW"],
+    "lastDate": {
+      "#ug1UG": 1648751340000,
+      "#pg2PG": 1648751340000,
+      "pgd3PGD": 1648751340000,
+      "law4LAW": 1648751340000
+    }
+  },
+  {
+    "yearId": "5",
+    "year": "5th Year",
+    "courseType": ["law4LAW"],
+    "lastDate": {
+      "#ug1UG": 1648751340000,
+      "#pg2PG": 1648751340000,
+      "pgd3PGD": 1648751340000,
+      "law4LAW": 1648751340000
+    }
+  }
+]

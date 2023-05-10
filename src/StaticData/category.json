@@ -1,0 +1,22 @@
+[
+  {
+    "categoryId": "1General",
+    "category": "General"
+  },
+  {
+    "categoryId": "2OBC",
+    "category": "OBC"
+  },
+  {
+    "categoryId": "3SC",
+    "category": "SC"
+  },
+  {
+    "categoryId": "4ST",
+    "category": "ST"
+  },
+  {
+    "categoryId": "5EWS",
+    "category": "EWS"
+  }
+]

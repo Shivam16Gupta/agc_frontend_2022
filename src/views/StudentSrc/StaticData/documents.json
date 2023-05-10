@@ -1,0 +1,376 @@
+{
+  "UG-1": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "UG-2": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "UG-3": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "UG-4": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "9PG3MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "UG-5": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "9PG3MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "10PG4MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "PG-1": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "PG-2": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "PGD-1": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "PGD-2": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LAW-1": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LAW-2": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LAW-3": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LAW-4": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "9PG3MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LAW-5": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "9PG3MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "10PG4MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "GraduationDegree": {
+    "documentType": "3GD",
+    "document": "",
+    "isDelete": 0
+  },
+  "LLB": {
+    "documentType": "6LLB",
+    "document": "",
+    "isDelete": 0
+  },
+  "LLB-1": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LLB-2": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ],
+  "LLB-3": [
+    {
+      "documentType": "1HSM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "2IM",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "3GD",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "7PG1MS",
+      "document": "",
+      "isDelete": 0
+    },
+    {
+      "documentType": "8PG2MS",
+      "document": "",
+      "isDelete": 0
+    }
+  ]
+}

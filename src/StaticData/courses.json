@@ -1,0 +1,93 @@
+[
+  {
+    "courseId": "1BA",
+    "courseName": "BA",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "6BSC",
+    "courseName": "B.Sc",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "2MA",
+    "courseName": "MA",
+    "years": [1, 2],
+    "feesType": "SEM2",
+    "courseType": "PG"
+  },
+  {
+    "courseId": "3BBA",
+    "courseName": "BBA",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "4BCA",
+    "courseName": "BCA",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "5BSCBIOTECH",
+    "courseName": "B.Sc Biotech",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "7MSC",
+    "courseName": "MSC",
+    "years": [1, 2],
+    "feesType": "SEM2",
+    "courseType": "PG"
+  },
+  {
+    "courseId": "8BCOM",
+    "courseName": "B.com.",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "9JOURNALISM",
+    "courseName": "PGDJ (Journalism)",
+    "years": [1],
+    "feesType": "SEM2",
+    "courseType": "PGD"
+  },
+  {
+    "courseId": "10BALLB",
+    "courseName": "BA. LLB",
+    "years": [1, 2, 3, 4, 5],
+    "feesType": "SEM2",
+    "courseType": "UG"
+  },
+  {
+    "courseId": "11LLB",
+    "courseName": "LLB",
+    "years": [1, 2, 3],
+    "feesType": "SEM2",
+    "courseType": "LLB"
+  },
+  {
+    "courseId": "12LLM",
+    "courseName": "LLM",
+    "years": [1, 2],
+    "feesType": "SEM2",
+    "courseType": "LAW"
+  },
+  {
+    "courseId": "13BED",
+    "courseName": "B.Ed.",
+    "years": [1, 2],
+    "feesType": "SEM2",
+    "courseType": "PGD"
+  }
+]

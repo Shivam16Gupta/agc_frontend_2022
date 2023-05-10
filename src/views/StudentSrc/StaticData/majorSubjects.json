@@ -1,0 +1,542 @@
+[
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$s1Botany",
+        "streamId": ["$s1.2PCB","$s1.3PCMB"],
+        "subjectName": "Botany",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$s2Physics",
+        "streamId": ["$s1Science","$s1.3PCMB"],
+        "subjectName": "Physics",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$s3Chemistry",
+        "streamId": ["$s1Science","$s1.2PCB","$s1.3PCMB"],
+        "subjectName": "Chemistry",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$s4Maths",
+        "streamId": ["$s1Science","$s1.3PCMB"],
+        "subjectName": "Mathematics",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$s5Statistics",
+        "streamId": ["$s1Science","$s1.3PCMB"],
+        "subjectName": "Statistics",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "$sf17BALLBZoology",
+        "streamId": ["$s1.2PCB","$s1.3PCMB"],
+        "subjectName": "Zoology",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1Science",
+        "subjectId": "bscs06BSC",
+        "streamId": ["$s1.2PCB","$s1.3PCMB","$s1Science"],
+        "subjectName": "BSC",
+        "year": ["2"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$s7dss",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Defence and Strategic Studies",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$s8Economics",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Economics",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$9History",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "History",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$s10Phylosophy",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Phylosophy",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$11pe",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Physical Education",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$12ps",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Political Science",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$13Psychology",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Psychology",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "$14Sociology",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Sociology",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f2Arts",
+        "subjectId": "ba014BA",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "BA",
+        "year": ["2"]
+    },
+    {
+        "facultyId": "f3Language",
+        "subjectId": "$15Hindi",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Hindi",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f3Language",
+        "subjectId": "$16English",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "English",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f3Language",
+        "subjectId": "$17Sanskrit",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Sanskrit",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f4fineArt",
+        "subjectId": "$18dp",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Drawing and Painting",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f4fineArt",
+        "subjectId": "$19Music",
+        "streamId": ["$s3Arts","$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce"],
+        "subjectName": "Music (Vocal/ Instrumental Sitar/ Instrumental Tabla)",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f5foc",
+        "subjectId": "$20Bcom",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "B.Com",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f6fom",
+        "subjectId": "$21Bba",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "BBA",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f6fom",
+        "subjectId": "$23Bca",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "BCA",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f7fols",
+        "subjectId": "llm26LLM",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "LLM",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f7fols",
+        "subjectId": "llb27LLB",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "LLB",
+        "year": ["1","2","3"]
+    },
+    {
+        "facultyId": "f7fols",
+        "subjectId": "$22ballb",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "B.A. LLB",
+        "year": ["1","2","3","4","5"]
+    },
+    {
+        "facultyId": "f8fobt",
+        "subjectId": "$24bscbt",
+        "streamId": ["$s1.3PCMB","$s1.2PCB"],
+        "subjectName": "BSc BioTech",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f9foj",
+        "subjectId": "jrn25Journalism",
+        "streamId": ["$s2Commerce","$s1.3PCMB","$s1.2PCB","$s1Science","$s3Arts"],
+        "subjectName": "Journalism",
+        "year": ["1"]
+    },
+    {
+        "facultyId": "f1ScienceBio",
+        "subjectId": "s42BscBioChem",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Chemistry",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceBio",
+        "subjectId": "s42BscBioPE",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Physical Education",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceBio",
+        "subjectId": "s42BscBioBotany",
+        "streamId": ["$s1.3PCMB","$s1.2PCB"],
+        "subjectName": "Botany",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceBio",
+        "subjectId": "s42BscBioZoology",
+        "streamId": ["$s1.3PCMB","$s1.2PCB"],
+        "subjectName": "Zoology",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMPhysics",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Physics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMChem",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Chemistry",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMStatistics",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Statistics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMaths",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Mathematics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMEconomics",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Economics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMPE",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Physical Education",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f1ScienceMaths",
+        "subjectId": "s42BscMMS",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Military Science",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s43HindiLang",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Hindi Language",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s44SanskritLang",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Sanskrit Language",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s45GenEng",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "General English",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s43HindiLit",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Hindi Literature",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s44SanskritLit",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Sanskrit Lit.",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s45EnglishLit",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "English Lit.",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s46Philosophy",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Philosophy",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s47Economics",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Economics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s48History",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "History",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s49PS",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Political Science",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s50Socialogy",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Socialogy",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s51Psychology",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Psychology",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s52MS",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Military Studies",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s53DP",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Drawing & Painting",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s54Maths",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Mathematics",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s55Music",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Music",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12BA",
+        "subjectId": "s55BAPhyEdu",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Physical Education",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s56HL",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Hindi Literature",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s57Sanskrit",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Sanskrit",
+        "year": ["1","2"]
+    }
+    ,
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s58Psychology",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Psychology",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s59PS",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Political Science",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s60Maths",
+        "streamId": ["$s1.3PCMB","$s1Science"],
+        "subjectName": "Mathematics",
+        "year": ["1", "2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s61EL",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "English Literature",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s62Pholosophy",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Philosophy",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s63History",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "History",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s64Economic",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Economics",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f12MA",
+        "subjectId": "s65DP",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "Drawing & Painting",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s66Physics",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Physics",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s67Chemistry",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Chemistry",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s68Botant",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Botany",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s69Zoology",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Zoology",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s70Mathematics",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Mathematics",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f13MSC",
+        "subjectId": "s71Statistics",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science"],
+        "subjectName": "Statistics",
+        "year": ["1","2"]
+    },
+    {
+        "facultyId": "f14BCOM",
+        "subjectId": "s72BCOM",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "B.Com",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f15BBA",
+        "subjectId": "s73BBAsem1",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "BBA",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f16BCA",
+        "subjectId": "s74BCAsem1",
+        "streamId": ["$s1.3PCMB","$s1.2PCB","$s1Science","$s2Commerce","$s3Arts"],
+        "subjectName": "BCA",
+        "year": ["2","3"]
+    },
+    {
+        "facultyId": "f17BioTech",
+        "subjectId": "s75BscBioTech",
+        "streamId": ["$s1.3PCMB","$s1.2PCB"],
+        "subjectName": "Bsc BioTech",
+        "year": ["2","3"]
+    }
+]

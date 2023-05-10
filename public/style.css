@@ -1,0 +1,68 @@
+.bimage_home {
+  background-image: url('bg.jpg');
+  height: 100;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.flex {
+  flex: 1;
+}
+.alignCenter {
+  display: flex;
+  align-items: center;
+}
+.center {
+  text-align: center;
+}
+.pad10 {
+  padding: 10px !important;
+}
+.right {
+  text-align: right;
+}
+.darkBlueColor {
+  color: #0000b3;
+}
+.headBg {
+  background: linear-gradient(to top left, #33cccc 0%, #3399ff 100%);
+  border-radius: 5px;
+}
+.makeRed {
+  color: red;
+}
+.childContainer {
+  max-width: 1130px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .childContainer {
+    max-width: 100% !important;
+    margin: 0 auto;
+    padding: 0;
+  }
+}
+.logo {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+}
+.linkable {
+  cursor: pointer;
+  border: 2px solid;
+  padding: 6px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 6px;
+}
+.linkable:hover {
+  color: rgb(144, 212, 99);
+}
+.link {
+  cursor: pointer;
+  color: rgb(38, 38, 185);
+  font-weight: bold;
+  text-decoration: underline;
+}

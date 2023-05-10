@@ -1,0 +1,21 @@
+{
+    "academic": 
+    {
+        "nameOfExam": "",
+        "year": "",
+        "rollNo": "",
+        "board": "",
+        "institution": "",
+        "totalMarks": "",
+        "marksObtained": "",
+        "percentage": "",
+        "subjects": "",
+        "isDelete": 1
+    },
+    "documents": 
+    {
+        "documentType": "",
+        "document": "",
+        "isDelete": 1
+    }
+}

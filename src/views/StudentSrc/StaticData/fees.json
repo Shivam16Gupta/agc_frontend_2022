@@ -1,0 +1,82 @@
+{
+    "f14BCOM": 
+    {
+        "type" : 0,
+        "fee" : 12075.00,
+        "parameterId" : "F5FOC"
+    },
+    "f17BioTech":
+    {
+        "type" : 0,
+        "fee" : 35075.00,
+        "parameterId" : "F11BIOTEC"
+    },
+    "f15BBA" : 
+    {
+        "type" : 0,
+        "fee" : 14829.00,
+        "parameterId" : "F6FOM"
+    },
+    "f16BCA" : 
+    {
+        "type" : 0,
+        "fee" : 15029.00,
+        "parameterId" : "F6FOM"
+    },
+    "f7fols" :  
+    {
+        "type" : 2,
+        "parameterId" : "F7LAW",
+        "llm26LLM" : {"male": 4114.50 ,"female": 4114.50, "transgender": 4114.50},
+        "llb27LLB" : {"male": 3507.00 ,"female": 3327.00, "transgender": 3507.00},
+        "$22ballb" : {"male": 14900.00 ,"female": 14900.00,"transgender": 14900.00}
+    },
+    "f1ScienceBio" : 
+    {
+        "type" : 1,
+        "parameterId" : "F1SCIENCE",
+        "male": 4512.00,
+        "female": 4380.00,
+        "transgender": 4512.00
+    },
+    "f1ScienceMaths" : 
+    {
+        "type" : 1,
+        "parameterId" : "F1SCIENCE",
+        "male": 4272.00,
+        "female": 4140.00,
+        "transgender": 4272.00
+    },
+    "f13MSC" : 
+    {
+        "type" : 1,
+        "parameterId" : "F1SCIENCE",
+        "male": 4302.00,
+        "female": 4122.50,
+        "transgender": 4302.00
+    },
+    "f12BA" : 
+    {
+        "type" : 3,
+        "parameterId" : "F1SCIENCE",
+        "practicalSubjects" : ["s54Maths","s53DP","s52MS","s51Psychology","s55BAPhyEdu"],
+        "fee" : 
+        {
+            "0" : {"male" : 3557.00, "female" : 3425.00, "transgender" : 3557.00}, 
+            "1" : {"male" : 4022.00, "female" : 3890.00, "transgender" : 4022.00},
+            "2" : {"male" : 4262.00, "female" : 4130.00, "transgender" : 4262.00}
+        }
+    
+    },
+    "f12MA" : 
+    {
+        "type" : 3,
+        "parameterId" : "F1SCIENCE",
+        "practicalSubjects" : ["s65DP","s58Psychology"],
+        "fee" : 
+        {
+            "0" : {"male" : 3812.50, "female" : 3632.50, "transgender" : 3812.50}, 
+            "1" : {"male" : 4302.50, "female" : 4122.50, "transgender" : 4302.50}
+        }
+    }
+}

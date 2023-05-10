@@ -1,0 +1,24 @@
+{
+    "announcements": [
+        {
+            "txt": "Online registration form can be filled only when web registration is complete.",
+            "link": "https://www.google.com"
+        },
+        {
+            "txt": "If you don't remember your 'REGISTERED ID' then click the button 'FORGOT REGISTRATION'.",
+            "link": ""
+        },
+        {
+            "txt": "All students who submitted online application form please download the form and take print out.",
+            "link": ""
+        },
+        {
+            "txt": "For any other general enquiry like merit issue, last date or any other problem. Kindly check with college department.",
+            "link": ""
+        },
+        {
+            "txt": "click",
+            "link": "www.google.com"
+        }
+    ]
+}

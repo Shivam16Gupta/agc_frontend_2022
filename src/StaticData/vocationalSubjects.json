@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1BF",
+    "name": "Banking & Finance",
+    "year": [1, 2]
+  },
+  {
+    "id": "2MC",
+    "name": "Mushroom Cultivation",
+    "year": [1, 2]
+  },
+  {
+    "id": "3WQA",
+    "name": "Water Quality Attendant",
+    "year": [1, 2]
+  },
+  {
+    "id": "4HFT",
+    "name": "Health and Fitness Trainer",
+    "year": [1, 2]
+  },
+  {
+    "id": "5CP",
+    "name": "Computational Physics",
+    "year": [1, 2]
+  },
+  {
+    "id": "6LS",
+    "name": "Library Science",
+    "year": [1, 2]
+  },
+  {
+    "id": "7TP",
+    "name": "Tabla Praveshika",
+    "year": [1, 2]
+  },
+  {
+    "id": "8SB",
+    "name": "Skilled Beekeeper",
+    "year": [2]
+  },
+  {
+    "id": "9RKL",
+    "name": "Radio Ke Liye Lekhan",
+    "year": [2]
+  },
+  {
+    "id": "10CP",
+    "name": "Creative Painting",
+    "year": [2]
+  }
+]

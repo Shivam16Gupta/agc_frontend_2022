@@ -1,0 +1,18 @@
+[
+  {
+    "courseType": "Under Graduate",
+    "courseTypeId": "UG"
+  },
+  {
+    "courseType": "Post Graduate",
+    "courseTypeId": "PG"
+  },
+  {
+    "courseType": "PG Diploma",
+    "courseTypeId": "PGD"
+  },
+  {
+    "courseType": "Law",
+    "courseTypeId": "LAW"
+  }
+]

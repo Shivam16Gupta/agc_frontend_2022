@@ -1,0 +1,32 @@
+[
+  {
+    "bankAccountId": "F1SCIENCE",
+    "bankAccountName": "INCIDENTAL",
+    "accountNo": "2481101004462"
+  },
+  {
+    "bankAccountId": "F21VOC",
+    "bankAccountName": "VOCATIONAL",
+    "accountNo": "110044211734"
+  },
+  {
+    "bankAccountId": "F22LAB",
+    "bankAccountName": "BREAKAGE",
+    "accountNo": "2481101026181"
+  },
+  {
+    "bankAccountId": "F5FOC",
+    "bankAccountName": "SELF FINANCE",
+    "accountNo": "2481101026953"
+  },
+  {
+    "bankAccountId": "F7LAW",
+    "bankAccountName": "LAW",
+    "accountNo": "2481101025997"
+  },
+  {
+    "bankAccountId": "PURCHASE",
+    "bankAccountName": "ADDITIONAL",
+    "accountNo": "2481201005001"
+  }
+]

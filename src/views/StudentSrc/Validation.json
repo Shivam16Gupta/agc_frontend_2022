@@ -1,0 +1,99 @@
+{
+    "wrn": {
+       "minLength":5,
+       "maxLength": 50
+    },
+    "fullname": {
+       "minLength":5,
+       "maxLength": 50
+    },
+    "personalMobile": {
+        "minLength":10,
+        "maxLength": 10
+     },
+     "parentMobile": {
+        "minLength":10,
+        "maxLength": 10
+     },
+     "aadharNo": {
+        "minLength":12,
+        "maxLength": 12
+     },
+     "email": {
+        "minLength":10,
+        "maxLength": 50
+     },
+     "fatherName": {
+        "minLength":5,
+        "maxLength": 30
+     },
+     "motherName": {
+        "minLength":5,
+        "maxLength": 30
+     },
+     "parentsOccupation": {
+        "minLength":5,
+        "maxLength": 50
+     },
+     "guardianName": {
+        "minLength":5,
+        "maxLength": 20
+     },
+     "relationOfApplicant": {
+        "minLength":5,
+        "maxLength": 20
+     },
+     "houseNo": {
+        "minLength":1,
+        "maxLength": 10
+     },
+     "street": {
+        "minLength":5,
+        "maxLength": 50
+     },
+     "pincode": {
+        "minLength":6,
+        "maxLength": 6
+     },
+     "postOffice": {
+        "minLength":5,
+        "maxLength": 50
+     },
+     "nameOfExam": {
+        "minLength":5,
+        "maxLength": 20
+     },
+     "board": {
+        "minLength": 2,
+        "maxLength": 10
+     },
+     "institution": {
+        "minLength": 5,
+        "maxLength": 50
+     },
+     "year": {
+        "minLength": 4,
+        "maxLength": 4
+     },
+     "rollNo": {
+        "minLength": 5,
+        "maxLength": 20
+     },
+     "totalMarks": {
+        "minLength": 2,
+        "maxLength": 10
+     },
+     "marksObtained": {
+        "minLength": 2,
+        "maxLength": 10
+     },
+     "percentage": {
+        "minLength": 2,
+        "maxLength": 5
+     },
+     "subjects": {
+        "minLength": 5,
+        "maxLength": 50
+     }
+  }
+  
