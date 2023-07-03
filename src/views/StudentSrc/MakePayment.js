@@ -35,7 +35,7 @@ class MakePayment extends React.Component {
         activatedCourses[user.course].includes(parseInt(user.admissionYear))
       ) {
         const f = new FormData()
-        f.append('extraFee', 'S_2023')
+        f.append('extraFee', 'S_2022')
         f.append('userId', user.user_id)
         f.append('account', accountsStaticData[user.course].prospectusFee)
         f.append('amount', '252.00')

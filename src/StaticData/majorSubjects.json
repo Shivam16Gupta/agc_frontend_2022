@@ -56,6 +56,30 @@
     "years": ["1"]
   },
   {
+    "id": "8ZBP",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology, Botany, Physical Education",
+    "years": ["1","2"]
+  },
+  {
+    "id": "9ZCP",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Zoology, Chemistry, Physical Education",
+    "years": ["1","2"]
+  },
+  {
+    "id": "10BCP",
+    "facultyId": null,
+    "courseId": "6BSC",
+    "streamId": ["2STREAMPCB", "3STREAMPCMB"],
+    "name": "Botany, Chemistry, Physical Education",
+    "years": ["1","2"]
+  },
+  {
     "id": "08DSS",
     "facultyId": "1FOAPE",
     "courseId": "1BA",

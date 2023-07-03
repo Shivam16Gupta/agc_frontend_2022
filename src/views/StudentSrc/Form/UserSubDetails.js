@@ -52,7 +52,7 @@ function UserSubDetails(props, ref) {
     passportPhoto: '',
     wrn: '',
     wrnFile: '',
-    ern:'',
+    
   })
 
   let {
@@ -68,7 +68,7 @@ function UserSubDetails(props, ref) {
     passportPhoto,
     wrn,
     wrnFile,
-    ern,
+    
   } = fields
 
   useEffect(() => {
@@ -203,20 +203,6 @@ function UserSubDetails(props, ref) {
               }}
               handleChange={handleChangeFields}
             />
-            {admissionYear!=='1'?(<CustomInput
-              isMandatory={false}
-             
-              labelText='Enrolement Number(*Optional)'
-              formControlProps={{
-                fullWidth: true,
-              }}
-              inputProps={{
-                name: 'ern',
-                value: ern,
-                helperText:'Enrolement Number as in Marksheet (A-*********)',
-              }}
-              handleChange={handleChangeFields}
-            />):("")}
             
           </Grid>
           <Grid container item xs={12} justifyContent="center">

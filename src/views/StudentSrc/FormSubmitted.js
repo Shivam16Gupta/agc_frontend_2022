@@ -52,7 +52,7 @@ class FormSubmitted extends React.Component {
     if (validateUser()) {
       const user = LocalStorage.getUser()
       const f = new FormData()
-      f.append('extraFee', 'S_2023')
+      f.append('extraFee', 'S_2022')
       f.append('userId', user.user_id)
       f.append('account', feeData.bankAccountId)
       f.append('amount', feeData.amount)

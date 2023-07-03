@@ -66,7 +66,7 @@ class Login extends Component {
     // })
 
     
-      fetch('https://agc.eduguruji.com/2023/announcement.json')
+      fetch('https://agc.eduguruji.com/2022/announcement.json')
     .then(response => response.json())
     .then(data =>  this.setState({
       ...this.state,
@@ -131,7 +131,7 @@ class Login extends Component {
           <div className="center">
             <img alt="logo" src="agracollege.png" className={classes.logo} />
             <Typography variant="h4">
-              SESSION <b>2023-24</b>
+              SESSION <b>2022-23</b>
             </Typography>
           </div>
           <Grid container spacing={2}>
