@@ -20,7 +20,6 @@ import Danger from '../components/Typography/Danger'
 import { ASSETS } from '../constants/Constants'
 import { addErrorMsg } from '../utils/Utils'
 
-
 const useStyles = (theme) => ({
   paper: {
     marginTop: theme.spacing(3),
@@ -54,27 +53,14 @@ class Login extends Component {
   }
 
   handleFetchAnnouncements() {
-    // AnnouncementApi.fetchAllAnnouncements().then((res) => {
-    //   this.setState({
-    //     ...this.state,
-    //     announcements: res.data,
-    //   })
-    // })
-    // this.setState({
-    //   ...this.state,
-    //   announcements: announcements.announcements,
-    // })
-
-    
-      fetch('https://agc.eduguruji.com/2022/announcement.json')
-    .then(response => response.json())
-    .then(data =>  this.setState({
-      ...this.state,
-      announcements: data.announcements,
-      
-    }))
-    .catch(error => console.error(error));
-    
+    AnnouncementApi.fetchAllAnnouncements()
+      .then((res) => {
+        this.setState({
+          ...this.state,
+          announcements: res.data,
+        })
+      })
+      .catch((error) => console.error(error))
   }
 
   handleSubmit = () => {
@@ -94,7 +80,6 @@ class Login extends Component {
       password: dob,
     }
     if (registrationNo && dob) {
-      
       LoginApi.userLogin(data).then((response) => {
         if (
           response !== undefined &&
@@ -157,12 +142,7 @@ class Login extends Component {
                       {announcements.map((announcement, index) => {
                         return (
                           <div>
-                            <li key={index}>
-                              {announcement.txt}
-                              <a href={announcement.link}>
-                                {announcement.link}
-                              </a>
-                            </li>
+                            <li key={index}>{announcement.message}</li>
                           </div>
                         )
                       })}
